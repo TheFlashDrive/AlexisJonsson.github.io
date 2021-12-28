@@ -37,7 +37,7 @@ html, body{
     width: 100%;
 }
 .winButton-iRh8-Z {
-    top: calc( -1 * var(--windowbar-drag-zone));
+    top: calc( 1 * var(--windowbar-drag-zone));
     width: var(--windowbar-button-width);
     height: var(--windowbar-height);
     cursor: default;
@@ -46,7 +46,7 @@ html, body{
 .wordmarkWindows-1v0lYD {
     height: var(--windowbar-height);
     box-sizing: border-box;
-    padding: 0px;
+    padding: 8px;
     margin-left: 8px;
     display:flex;
     flex-direction: column;
